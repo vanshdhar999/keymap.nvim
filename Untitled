@@ -1,0 +1,1 @@
+print(vim.lsp.get_a ective_clients({name='lua_ls'})[1].config.root_dir
